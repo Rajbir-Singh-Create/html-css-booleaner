@@ -33,13 +33,13 @@ Footer font color: White;
 }
 
 /* Introductory content */
-.authorinfo {
+.author-info {
     color: gray;
     font-size: small;
     margin-bottom: 20px;
 }
 
-.imgdescription {
+.img-description {
     font-size: 15px;
 }
 
@@ -57,7 +57,7 @@ Footer font color: White;
 }
 
 /* table */
-.headcolor {
+.head-color {
     background-color: rgb(127 166 251);
     color: white;
 }
@@ -70,6 +70,10 @@ Footer font color: White;
     width: 20%;
 }
 
+.colwidth-2 {
+    width: 60%;
+}
+
 /* footer */
 footer {
     background-color: rgb(48 58 107);
@@ -80,10 +84,10 @@ footer p {
     color: white;
     font-size: 15px;
     text-align: center;
-    
+
 }
 
 /* general rules */
-.content {
+.content-margin {
     margin: 20px;
 }
