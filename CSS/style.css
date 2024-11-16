@@ -22,6 +22,8 @@ Footer font color: White;
 .logo { 
     background-color:rgb(156 214 244);
     height: 100px;
+    background-image: url("../img/pattern.png");
+    background-size: 40%;
 }
 
 .logo img {
