@@ -5,7 +5,7 @@ Logo background color: rgb(156 214 244);
 The Booleaner: rgb(102 178 255);
 Highlight: rgb(255 255 2);
 Table header: rgb(127 166 251);
-Table row 1: rgb(127 166 251);
+Table row 1: rgb(224 229 242)
 Table row 2: rgb(255 255 255);
 Footer: rgb(48 58 107);
 Footer font color: White;
@@ -54,7 +54,31 @@ Footer font color: White;
 }
 
 /* table */
+.headcolor {
+    background-color: rgb(127 166 251);
+    color: white;
+}
 
+.bodycolor {
+    background-color: rgb(224 229 242);
+}
+
+.colwidth {
+    width: 20%;
+}
+
+/* footer */
+footer {
+    background-color: rgb(48 58 107);
+    padding: 20px;
+}
+
+footer p {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    
+}
 
 /* general rules */
 .content {
