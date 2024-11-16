@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+/* Logo section */
+.logo { 
+    background-color:rgb(156 214 244);
+    height: 100px;
+}
+
+.logo img {
+    width: 200px;
+    margin: 50%, auto;
+}
