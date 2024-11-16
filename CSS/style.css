@@ -1,3 +1,16 @@
+/* 
+COLOR PLAETTE
+
+Logo background color: rgb(156 214 244);
+The Booleaner: rgb(102 178 255);
+Highlight: rgb(255 255 2);
+Table header: rgb(127 166 251);
+Table row 1: rgb(127 166 251);
+Table row 2: rgb(255 255 255);
+Footer: rgb(48 58 107);
+Footer font color: White;
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -11,6 +24,39 @@
 }
 
 .logo img {
-    width: 200px;
-    margin: 50%, auto;
+    width: 170px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+/* Introductory content */
+.authorinfo {
+    color: gray;
+    font-size: small;
+    margin-bottom: 20px;
+}
+
+.imgdescription {
+    font-size: 15px;
+}
+
+.thebooleaner {
+    color: rgb(102 178 255);
+}
+
+/* Main info */
+.highlight {
+    background-color: rgb(255 255 2);
+}
+
+.list {
+    margin-left: 20px;
+}
+
+/* table */
+
+
+/* general rules */
+.content {
+    margin: 20px;
 }
